@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <link rel="stylesheet" href="facebook-logo-2019(1).png">
 <link rel="stylesheet" href="estilo.css">
 <link href="https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&family=Montserrat:ital,wght@1,200&family=Oswald:wght@300&family=Teko:wght@300&display=swap" rel="stylesheet"> 
