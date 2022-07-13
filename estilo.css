@@ -1,0 +1,180 @@
+
+body{
+    
+    background-color: #DFF6FF ;
+}
+#title{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size:6ch;
+    color: #47B5FF;
+    background-color:#06283D ;
+ 
+   
+    
+    margin-top: -8px;
+    padding: 2ch;
+    margin-left: -8px;
+    margin-right: -8px;
+
+}
+#description{
+    margin-left: 32ch;
+    font-family: 'Montserrat';
+    color: #47B5FF;
+    margin-top: -6ch;
+}
+#survey-form{
+    margin-top: 6ch;
+    color:#DFF6FF;
+    margin-left: 24ch;
+    margin-right: 24ch;
+    padding: 4ch;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3em;
+    align-items: center;
+    background-color: #06283D ;
+    margin-bottom: 6ch;
+}
+
+#name{
+    font-family: 'Teko', sans-serif; ;
+    font-size: 0.8em;
+    color: #DFF6FF;
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    background-color: #06283D; 
+    margin-top: 3ch;
+    margin-bottom: 3ch;
+    
+}
+
+
+#name-label{
+   font-size: 1.1em;
+   
+}   
+
+#email{
+   
+    font-family: 'Teko', sans-serif; ;
+    font-size: 0.8em;
+    color: #DFF6FF;
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    background-color: #06283D; 
+    margin-top: 3ch;
+    margin-bottom: 3ch;
+}
+
+#email-label{
+    font-size: 1.1em;
+}
+
+#number{
+    font-family: 'Teko', sans-serif; ;
+    font-size: 0.8em;
+    color: #DFF6FF;
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    background-color: #06283D; 
+    margin-top: 3ch;
+    margin-bottom: 3ch;
+
+}
+
+#number-label{
+    font-size: 1.1em;
+}
+
+#dropdown{
+    font-family: 'Teko', sans-serif; ;
+    font-size: 0.8em;
+    color: #DFF6FF;
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    background-color: #06283D; 
+    margin-top: 3ch;
+    margin-bottom: 3ch;
+    width:105.6ch;
+    height: 6.3ch;
+}
+
+#dropdown-div{
+    font-size: 1.1em;
+}
+
+#div-ide{
+    font-family: 'Montserrat';
+    font-size: 0.8em;
+}
+
+#comentario{
+    font-family: 'Teko';
+    font-size: 0.8em;
+    color: #DFF6FF;
+    width: 103.5ch;
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    background-color: #06283D;
+}
+#submit{
+    font-family: 'Teko';
+    color: #06283D;
+    font-size: 1.5em;
+    background-color: #47B5FF;
+    border-color: #1363DF;
+    
+    width: 56.3ch;
+    height: 7ch;
+    
+    border-color: #1363DF;
+    border-width: 4px;
+    border-radius: 3px;
+    
+   
+}
+
+#contact{
+    color: #DFF6FF;
+    background-color: #06283D;
+    padding: 6ch;
+    margin-left: -0.7%;
+    margin-bottom: -3% ;
+    margin-right: -8px;
+   
+      
+    
+}
+#contact-image-facebook
+{
+    
+    
+    margin-left: 64ch;
+    margin-right: auto;
+    width: 3%;
+}
+#contact-image-instagram{
+    display: flexbox; 
+    flex-direction: row-reverse;
+    
+    margin-left: 2ch;
+    margin-right: auto ;
+    width: 3%;
+    
+}
+
+#contact-github{
+    display: flexbox; 
+    flex-direction: row-reverse;
+    margin-left: 2ch;
+    margin-right: auto ;
+    width: 3%;
+}
+
+    
